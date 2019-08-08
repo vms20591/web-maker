@@ -1,3 +1,5 @@
+# FORKED TO REMOVE GOOGLE ANALYTICS, A FIREFOX ADDON (SCREW GOOGLE CHROME) & EXPLORE SELF-HOSTING!
+
 # Web-Maker ![Build](https://travis-ci.org/chinchang/web-maker.svg?branch=master) [![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier) [![Join the community on Spectrum](https://withspectrum.github.io/badge/badge.svg)](https://spectrum.chat/web-maker)
 
 ---
